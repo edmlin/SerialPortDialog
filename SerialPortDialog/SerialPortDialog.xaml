@@ -7,7 +7,7 @@
         xmlns:Ports="clr-namespace:System.IO.Ports;assembly=System.IO.Ports"
         xmlns:diag="clr-namespace:System.Diagnostics;assembly=WindowsBase"
         mc:Ignorable="d"
-        Title="SerialPortDialog" Height="280" Width="280" ResizeMode="NoResize" FontSize="12" WindowStartupLocation="CenterScreen">
+        Title="Serial Port Settings" Height="280" Width="280" ResizeMode="NoResize" FontSize="12" WindowStartupLocation="CenterScreen">
     <DockPanel LastChildFill="True">
         <Grid DockPanel.Dock="Bottom" Height="50">
             <Grid.ColumnDefinitions>
